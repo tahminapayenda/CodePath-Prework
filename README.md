@@ -4,9 +4,9 @@ Submitted by: **Tahmina Painda**
 
 **CodePath** is an app that displays three labels: My name, the university 
 I am attending and the title of the job I'm aspiring to get to. It also has a button
-that can change the background color to a random color upon clicking. [TODO] 
+that can change the background color to a random color upon clicking. 
 
-Time spent: **3** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
